@@ -1,0 +1,19 @@
+test_adjacent_allowed (test_schedule.ScheduleTests.test_adjacent_allowed) ... ok
+test_cli_friday (test_schedule.ScheduleTests.test_cli_friday) ... ok
+test_cli_full_schedule (test_schedule.ScheduleTests.test_cli_full_schedule) ... ok
+test_cli_monday (test_schedule.ScheduleTests.test_cli_monday) ... ok
+test_cli_saturday_and_room_310a (test_schedule.ScheduleTests.test_cli_saturday_and_room_310a) ... ok
+test_empty_result (test_schedule.ScheduleTests.test_empty_result) ... ok
+test_filter_actual_schedule (test_schedule.ScheduleTests.test_filter_actual_schedule) ... ok
+test_group_conflict (test_schedule.ScheduleTests.test_group_conflict) ... ok
+test_invalid_fields (test_schedule.ScheduleTests.test_invalid_fields) ... ok
+test_invalid_input_file (test_schedule.ScheduleTests.test_invalid_input_file) ... ok
+test_json_matches_all_seven_lessons (test_schedule.ScheduleTests.test_json_matches_all_seven_lessons) ... ok
+test_parallel_allowed (test_schedule.ScheduleTests.test_parallel_allowed) ... ok
+test_room_conflict (test_schedule.ScheduleTests.test_room_conflict) ... ok
+test_sort_actual_schedule (test_schedule.ScheduleTests.test_sort_actual_schedule) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.228s
+
+OK
